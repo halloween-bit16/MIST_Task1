@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color: rgb(188, 92, 135);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h3{
+    color: rgb(224, 49, 78);
+}
+
+.br{
+    padding:10px;
+    background-color: rgba(11, 11, 11, 0.644);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(213,65,89);
+    border-color:rgb(213, 65, 89) ;
+}
+
+.img{
+    width:100px;
+    height:100px;
+    padding:10px;
+}
